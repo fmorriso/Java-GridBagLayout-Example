@@ -12,7 +12,7 @@ Example of using a GridBagLayout to span two top rows of a three row layout.
 
 | Date       | Description      |
 |:-----------|:-----------------|
-| 2024-12-16 | Initial creation |
+| 2024-12-19 | Initial creation |
 
 ## Notes
 GridBagConstraints allows you to set the following properties to control the layout of individual components:
