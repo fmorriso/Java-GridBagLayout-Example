@@ -47,6 +47,7 @@ public class Main {
         frame.add(bottomPanel, gbc);
 
         // Make the frame visible
+        frame.setLocationRelativeTo(null); // center JFrame
         frame.setVisible(true);
     }
 }
