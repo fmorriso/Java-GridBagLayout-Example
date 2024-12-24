@@ -26,7 +26,7 @@ public class Main {
         gbc.gridy = 0;       // First row
 
         gbc.gridwidth = 1;   // Occupy one column
-        gbc.gridheight = GridBagConstraints.RELATIVE; // 2;  // Span two rows
+        gbc.gridheight = 2;  // Span two rows
 
         gbc.weightx = 1;     // Stretch horizontally
         gbc.weighty = 2;     // Stretch vertically (relative weight)

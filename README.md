@@ -6,7 +6,7 @@ Example of using a GridBagLayout to span two top rows of a three row layout.
 |:---------|---------:|
 | Java     | 23.0.1.0 |
 | IntelliJ | 2024.3.1 |
-| VSCode   |   1.96.1 |
+| VSCode   |   1.96.2 |
 
 ## Change History
 
